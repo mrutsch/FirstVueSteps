@@ -1,2 +1,0 @@
-# FirstVueSteps
-Created with CodeSandbox
